@@ -1,0 +1,22 @@
+{
+  "name": "algo-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial on interacting with Algorand blockchain using JavaScript.",
+  "main": "firstTransaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhtpham/algo-tutorial.git"
+  },
+  "author": "Jason Pham & Ronan Clooney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonhtpham/algo-tutorial/issues"
+  },
+  "homepage": "https://github.com/jasonhtpham/algo-tutorial#readme",
+  "dependencies": {
+    "algosdk": "^1.12.0"
+  }
+}
